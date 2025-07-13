@@ -143,8 +143,7 @@ This simulates how a speech recognition-enabled Arduino would respond to vocal i
 
 ## Output
 
-
-
+<img width="1910" height="1082" alt="Image" src="https://github.com/user-attachments/assets/005d8f90-1905-4d2c-9f9a-6aa83a467f34" />
 
 ## 🎯 Final Notes
 
